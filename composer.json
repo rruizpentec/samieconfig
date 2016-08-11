@@ -1,0 +1,8 @@
+{
+    "name": "pentec/samieconfig",
+    "version": "1.0.0",
+    "dist": {
+        "url": "http://svn.samoo.es/svn/moodle-samie-config/samieconfig.zip",
+        "type": "zip"
+    }
+}
