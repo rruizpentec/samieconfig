@@ -28,4 +28,6 @@ $string['dbpass'] = 'Database password';
 $string['settingsheadernewcourses'] = 'Integration - Creation of new courses';
 $string['professionalcertificatecategory'] = 'Category for professional certified courses';
 $string['professionalcertificatecategory_desc'] = 'The category for auto-created professional certified courses.)';
+$string['othercoursescategory'] = 'Category for other courses, (not the professional certified courses)';
+$string['othercoursescategory_desc'] = 'The category for other auto-created courses.)';
 $string['settingsheadercommon'] = 'Shared settings';

@@ -28,4 +28,6 @@ $string['dbpass'] = 'Contraseña del usuario de base de datos';
 $string['settingsheadernewcourses'] = 'Integration - Creación de nuevos cursos';
 $string['professionalcertificatecategory'] = 'Categoría para cursos de certificado profesional';
 $string['professionalcertificatecategory_desc'] = 'Esta será la categoría asociada a los cursos de certificados profesionales creados automáticamente.';
+$string['othercoursescategory'] = 'Categoría para otros cursos que no son certificados profesionales';
+$string['othercoursescategory_desc'] = 'Esta será la categoría asociada a otros cursos (no certificados profesionales) creados automáticamente.';
 $string['settingsheadercommon'] = 'Configuración compartida';

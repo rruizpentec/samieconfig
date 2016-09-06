@@ -58,4 +58,8 @@ if ($hassiteconfig) {
     $settings->add(new admin_setting_configselect('package_samie/professionalcertificatecategory',
             get_string('professionalcertificatecategory', 'local_samieconfig'),
             get_string('professionalcertificatecategory_desc', 'local_samieconfig'), 1, make_categories_options()));
+            
+    $settings->add(new admin_setting_configselect('package_samie/othercoursescategory',
+            get_string('othercoursescategory', 'local_samieconfig'),
+            get_string('othercoursescategory_desc', 'local_samieconfig'), 1, make_categories_options()));
 }
